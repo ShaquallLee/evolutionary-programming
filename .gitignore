@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea/
+*.iml
+out
+gen
+.gitignore
+.idea/vcs.xml
+.idea/workspace.xml
+Z_nsga2/DTLZ1/
+Z_nsga2/DTLZ2/
+Z_nsga2/ZDT1/
+Z_nsga2/ZDT2/
+Z_nsga2/ZDT3/
+Z_nsga2/ZDT4/
+Z_nsga2/ZDT6/
+Z_nsga2/运行结果/
+"Z_nsga2/\350\277\220\350\241\214\347\273\223\346\236\234/"
