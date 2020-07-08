@@ -1,0 +1,13 @@
+func(0)'s fitness£º2.844964532341108e-14
+func(1)'s fitness£º2.708853355794403e-07
+func(2)'s fitness£º0.4929803172207901
+func(3)'s fitness£º0.0013478068650172948
+func(4)'s fitness£º16.63433507880177
+func(5)'s fitness£º0
+func(6)'s fitness£º0.0103944987868278
+func(7)'s fitness£º-9194.989798168162
+func(8)'s fitness£º188.80400828169047
+func(9)'s fitness£º20.965721036092713
+func(10)'s fitness£º1.0000000000000007
+func(11)'s fitness£º2.613825018165348e-15
+func(12)'s fitness£º1.725864012948823e-14
