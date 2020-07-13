@@ -8,11 +8,11 @@
 import random
 
 class Particle():
-    def __init__(self, MAXDIM, lbound, rbound, F, CR, calc_fitness):
+    def __init__(self, MAXDIM, lbound, rbound, calc_fitness):
         self.gene = [lbound+random.random()*(rbound-lbound) for i in range(MAXDIM)]
         self.fitness = calc_fitness(self.gene)
-        self.F = F
-        self.CR = CR
+        self.F = 0
+        self.CR = 0
         self.old_F = random.random()
         self.old_CR =random.random()
 

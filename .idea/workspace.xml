@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df5a18ba-012b-47d7-90fb-b4456baae010" name="Default Changelist" comment="">
+    <list default="true" id="df5a18ba-012b-47d7-90fb-b4456baae010" name="Default Changelist" comment="JDE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eADE/JDE.py" beforeDir="false" afterPath="$PROJECT_DIR$/eADE/JDE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eADE/Particle.py" beforeDir="false" afterPath="$PROJECT_DIR$/eADE/Particle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eADE/prog-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/eADE/prog-1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,32 +27,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bEP2/prog-1.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eADE/Particle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3686">
-              <caret line="171" selection-start-line="171" selection-end-line="171" />
+            <state relative-caret-position="270">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eADE/JDE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding>
-                <element signature="e#124#135#0" expanded="true" />
+                <element signature="e#116#149#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Z_nsga2/nsga2.py">
+        <entry file="file://$PROJECT_DIR$/eADE/prog-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="114" column="30" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/eADE/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            <state relative-caret-position="86">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="e#119#150#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,10 +116,13 @@
         <option value="$PROJECT_DIR$/dDE/prog-1.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/eADE/__init__.py" />
+        <option value="$PROJECT_DIR$/eADE/prog-1.py" />
+        <option value="$PROJECT_DIR$/eADE/JDE.py" />
+        <option value="$PROJECT_DIR$/eADE/Particle.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="542" />
     <option name="y" value="6" />
     <option name="width" value="962" />
@@ -137,6 +146,11 @@
             <path>
               <item name="evolutionary-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="evolutionary-programming" type="462c0819:PsiDirectoryNode" />
+              <item name="dDE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evolutionary-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evolutionary-programming" type="462c0819:PsiDirectoryNode" />
               <item name="eADE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -155,13 +169,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mr.Li\Desktop\东莞理工\evolutionProgramming" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mr.Li\Desktop\东莞理工\evolutionProgramming" />
       <recent name="C:\Users\Mr.Li\Desktop\东莞理工\evolutionProgramming\test2" />
       <recent name="C:\Users\Mr.Li\Desktop\东莞理工\evolutionProgramming\test1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\evolutionary-programming\eADE" />
+      <recent name="C:\Users\Mr.Li\Desktop\东莞理工\evolutionProgramming" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,7 +324,7 @@
       <updated>1592819609738</updated>
       <workItem from="1592819618108" duration="21710000" />
       <workItem from="1592985133736" duration="64852000" />
-      <workItem from="1594215418821" duration="1629000" />
+      <workItem from="1594215418821" duration="3442000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1594215710119</created>
@@ -318,17 +333,31 @@
       <option name="project" value="LOCAL" />
       <updated>1594215710119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="自使用差分进化算法">
+      <created>1594626055755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594626055755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JDE">
+      <created>1594627470529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594627470529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88191000" />
+    <option name="totallyTimeSpent" value="90004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="542" y="6" width="962" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19512194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,7 +385,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="自使用差分进化算法" />
+    <MESSAGE value="JDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -549,37 +580,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dDE/DE.py">
+    <entry file="file://$PROJECT_DIR$/eADE/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#115#133#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Z_nsga2/nsga2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="106" column="34" lean-forward="true" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bEP2/prog-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3686">
-          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        <state relative-caret-position="810">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
             <element signature="e#124#135#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Z_nsga2/nsga2.py">
+    <entry file="file://$PROJECT_DIR$/dDE/DE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="114" column="30" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
+        <state relative-caret-position="287">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#115#133#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eADE/__init__.py">
+    <entry file="file://$PROJECT_DIR$/eADE/prog-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        <state relative-caret-position="86">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#119#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eADE/JDE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#116#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eADE/Particle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>

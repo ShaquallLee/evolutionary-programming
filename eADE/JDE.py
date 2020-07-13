@@ -11,19 +11,19 @@ import copy
 
 
 class JDE():
-    def __init__(self, MAXSIZE, MAXDIM, MAXGEN, calc_fitness, lbound, rbound, F=0.5, CR=0.9, use_CD=False, use_NCD=False):
+    def __init__(self, MAXSIZE, MAXDIM, MAXGEN, calc_fitness, lbound, rbound,tau1=0.1,tau2=0.2, Fl=0.1, Fu=0.9):
         self.MAXSIZE = MAXSIZE
         self.MAXDIM = MAXDIM
         self.MAXGEN = MAXGEN
         self.lbound = lbound
         self.rbound = rbound
-        self.tau1 = 0.1
-        self.tau2 = 0.1
-        self.Fl = 0.1
-        self.Fu = 0.9
+        self.tau1 = tau1
+        self.tau2 = tau2
+        self.Fl = Fl
+        self.Fu = Fu
         self.calc_fitness = calc_fitness
-        self.pop = [Particle(MAXDIM,lbound,rbound,F,CR, calc_fitness) for i in range(MAXSIZE)]    #初始种群
-        self.donor_vector = [Particle(MAXDIM, lbound, rbound, F, CR, calc_fitness) for i in range(MAXSIZE)]
+        self.pop = [Particle(MAXDIM,lbound,rbound, calc_fitness) for i in range(MAXSIZE)]    #初始种群
+        self.donor_vector = [Particle(MAXDIM, lbound, rbound, calc_fitness) for i in range(MAXSIZE)]
         self.bestFitnessValue = self.pop[0].fitness
         self.bestFitnessValues = []
 

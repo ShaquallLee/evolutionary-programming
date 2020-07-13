@@ -6,7 +6,7 @@
 # @desc:
 import matplotlib.pyplot as plt
 
-from dDE.DE import DE
+from eADE.JDE import JDE
 from config import test_funcs
 
 
@@ -17,8 +17,6 @@ TIMES = 1
 # lbound = -1.28
 # rbound = 1.28
 func_id = 2
-use_CD = False
-use_NCD = True
 
 # best = []
 # with open('results/log.txt', 'w+') as log:
