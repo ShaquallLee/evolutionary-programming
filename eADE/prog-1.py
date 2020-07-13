@@ -22,8 +22,8 @@ func_id = 2
 # with open('results/log.txt', 'w+') as log:
 #     for func_id in range(len(test_funcs)):
 for i in range(TIMES):
-    de = DE(MAXSIZE, MAXDIM, MAXGEN, test_funcs[func_id]['func'],-test_funcs[func_id]['bound'],
-            test_funcs[func_id]['bound'],use_CD=use_CD, use_NCD=use_NCD)
+    de = JDE(MAXSIZE, MAXDIM, MAXGEN, test_funcs[func_id]['func'],-test_funcs[func_id]['bound'],
+            test_funcs[func_id]['bound'])
     de.update()
     print("the best fitness is ", de.bestFitnessValue)
     # log.write("func({})'s fitness：{}\n".format(func_id, de.bestFitnessValue))

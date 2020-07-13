@@ -24,6 +24,7 @@ class JDE():
         self.calc_fitness = calc_fitness
         self.pop = [Particle(MAXDIM,lbound,rbound, calc_fitness) for i in range(MAXSIZE)]    #初始种群
         self.donor_vector = [Particle(MAXDIM, lbound, rbound, calc_fitness) for i in range(MAXSIZE)]
+        self.trial_vector = [Particle(MAXDIM, lbound, rbound, calc_fitness) for i in range(MAXSIZE)]
         self.bestFitnessValue = self.pop[0].fitness
         self.bestFitnessValues = []
 
