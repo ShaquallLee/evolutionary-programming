@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df5a18ba-012b-47d7-90fb-b4456baae010" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eADE/JDE.py" beforeDir="false" afterPath="$PROJECT_DIR$/eADE/JDE.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eADE/prog-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/eADE/prog-1.py" afterDir="false" />
     </list>
@@ -14,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/evolutionProgramming$prog_2.coverage" NAME="prog-2 Coverage Results" MODIFIED="1593330856586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test3" />
-    <SUITE FILE_PATH="coverage/evolutionary_programming$prog_1__1_.coverage" NAME="prog-1 (1) Coverage Results" MODIFIED="1594627994941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eADE" />
+    <SUITE FILE_PATH="coverage/evolutionary_programming$prog_1__1_.coverage" NAME="prog-1 (1) Coverage Results" MODIFIED="1594633966521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eADE" />
     <SUITE FILE_PATH="coverage/evolutionProgramming$prog_4.coverage" NAME="prog-4 Coverage Results" MODIFIED="1593332395047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test3" />
     <SUITE FILE_PATH="coverage/evolutionProgramming$nsga2.coverage" NAME="nsga2 Coverage Results" MODIFIED="1594124344512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/nsga2" />
     <SUITE FILE_PATH="coverage/evolutionProgramming$prog_1__1_.coverage" NAME="prog-1 (1) Coverage Results" MODIFIED="1592872859936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test2" />
@@ -30,8 +29,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eADE/Particle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="243">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eADE/JADE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#1288#1999#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eADE/JDE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            <state relative-caret-position="270">
+              <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
               <folding>
                 <element signature="e#116#149#0" expanded="true" />
               </folding>
@@ -51,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eADE/prog-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="75">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="e#119#150#0" expanded="true" />
               </folding>
@@ -117,15 +129,16 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/eADE/__init__.py" />
         <option value="$PROJECT_DIR$/eADE/Particle.py" />
-        <option value="$PROJECT_DIR$/eADE/prog-1.py" />
         <option value="$PROJECT_DIR$/eADE/JDE.py" />
+        <option value="$PROJECT_DIR$/eADE/prog-1.py" />
+        <option value="$PROJECT_DIR$/eADE/JADE.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="962" />
+    <option name="x" value="394" />
+    <option name="y" value="6" />
+    <option name="width" value="1110" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -142,11 +155,6 @@
             <path>
               <item name="evolutionary-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="evolutionary-programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="evolutionary-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="evolutionary-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="dDE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="evolutionary-programming" type="b2602c69:ProjectViewProjectNode" />
@@ -324,7 +332,7 @@
       <updated>1592819609738</updated>
       <workItem from="1592819618108" duration="21710000" />
       <workItem from="1592985133736" duration="64852000" />
-      <workItem from="1594215418821" duration="3606000" />
+      <workItem from="1594215418821" duration="9922000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1594215710119</created>
@@ -354,22 +362,29 @@
       <option name="project" value="LOCAL" />
       <updated>1594627846426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JDE">
+      <created>1594628070761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594628070761</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90168000" />
+    <option name="totallyTimeSpent" value="96484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2849224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.18657938" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35081968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28032786" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.1603928" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,7 +398,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.4644478" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.4644478" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -611,16 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eADE/prog-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#119#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dDE/DE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -633,15 +638,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eADE/Particle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="243">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eADE/prog-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#119#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eADE/JADE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1288#1999#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eADE/JDE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        <state relative-caret-position="270">
+          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
           <folding>
             <element signature="e#116#149#0" expanded="true" />
           </folding>
