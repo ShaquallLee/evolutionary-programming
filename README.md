@@ -1,2 +1,13 @@
 # evolutionary-programming
-about evolutionary algorithm
+#####关于进化计算
+#####每个以小写字母开头的文件夹的第一个字母为其序号，及a是第一个，b是第二个，依次向下排
+#####以大写字母开头的文件夹时单独的项目
+
+##内容如下：
+### a\b均为最基础的进化计算算法
+### c为粒子群优化算法
+### d为差分进化算法，在其中尝试了使用NSGA-Ⅱ中快速非支配排序+拥挤距离（crowding distance,CD）+精英选择策略查看其效果，也尝试了一种新的拥挤距离计算方法（NCD）查看了效果
+
+### Z为NSGA-Ⅱ算法的python实现
+
+### config、test_functions实现了对测试函数的封装，使得使用起来更为方便
