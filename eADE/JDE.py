@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
 # @author: lishaogang
-# @file: DE.py
-# @time: 2020/7/5 0005 9:29
+# @file: JDE.py
+# @time:
 # @desc:
 
 from eADE.Particle import Particle

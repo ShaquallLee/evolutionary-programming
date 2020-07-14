@@ -7,6 +7,7 @@
 import matplotlib.pyplot as plt
 
 from eADE.JDE import JDE
+from eADE.JADE import JADE
 from config import test_funcs
 
 
@@ -22,7 +23,7 @@ func_id = 2
 # with open('results/log.txt', 'w+') as log:
 #     for func_id in range(len(test_funcs)):
 for i in range(TIMES):
-    de = JDE(MAXSIZE, MAXDIM, MAXGEN, test_funcs[func_id]['func'],-test_funcs[func_id]['bound'],
+    de = JADE(MAXSIZE, MAXDIM, MAXGEN, test_funcs[func_id]['func'],-test_funcs[func_id]['bound'],
             test_funcs[func_id]['bound'])
     de.update()
     print("the best fitness is ", de.bestFitnessValue)
